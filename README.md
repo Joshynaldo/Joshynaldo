@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Josh!
 
-<!--
-**Joshynaldo/Joshynaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a beginner in programming, currently learning the ropes of Python, Java, and JavaScript. I am passionate about technology and excited to embark on this journey to enhance my coding skills and contribute to the developer community.
+
+## Languages and Tools
+
+- 🌱 **Learning:** Python, Java, JavaScript
+
+## Goals
+
+- 📚 Continuously improve my programming skills
+- 💻 Work on interesting projects and collaborate with other developers
+- 🌐 Contribute to open-source projects
+-  Starting to get consistent
