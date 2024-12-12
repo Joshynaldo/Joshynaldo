@@ -15,4 +15,4 @@ I am a beginner in programming. I am passionate about technology and want to mak
 - 📚 Continuously improve my programming skills
 - 🌐 Contribute to open-source projects
 ![](https://raw.githubusercontent.com/Joshynaldo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Joshynaldo/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Joshynaldo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
