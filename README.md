@@ -4,15 +4,14 @@ Welcome to my GitHub profile! 👋
 
 ## About Me
 
-I am a beginner in programming, currently learning the ropes of Python, Java, and JavaScript. I am passionate about technology and excited to embark on this journey to enhance my coding skills and contribute to the developer community.
+I am a beginner in programming. I am passionate about technology and want to make some Projects.
 
 ## Languages and Tools
 
-- 🌱 **Learning:** Python, Java, JavaScript
+- 🌱 **Learning:** Python 
 
 ## Goals
 
 - 📚 Continuously improve my programming skills
-- 💻 Work on interesting projects and collaborate with other developers
 - 🌐 Contribute to open-source projects
--  Starting to get consistent
+
