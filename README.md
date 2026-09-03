@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lukamitry@gmail.com)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gymfy.dev@gmail.com)
 
 ## ☕ Support
 If something I made was useful to you, you can buy me a coffee. Entirely optional — everything stays free either way.
